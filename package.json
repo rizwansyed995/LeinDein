@@ -1,0 +1,25 @@
+{
+  "name": "cardano-escrow-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^6.0.0",
+    "@meshsdk/core": "^1.9.0-beta.74",
+    "@meshsdk/react": "^1.9.0-beta.74",
+    "crypto-js": "^4.2.0",
+    "lucid-cardano": "^0.10.11"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^24.5.2",
+    "@types/react": "^19.1.13",
+    "typescript": "^5.9.2"
+  }
+}

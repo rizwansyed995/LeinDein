@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "fileName": "demo_project.zip",
+      "hash": "abc123def456",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "fileName": "awesome_project.zip",
+      "hash": "987zyx654",
+      "status": "approved"
+    }
+  ]
+}
