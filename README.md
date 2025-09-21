@@ -1,51 +1,17 @@
-# IndiaCodex 2025
+1. Project Name: LeinDein
+
+2.Project Description: LeinDein is a decentralized freelance payment platform built on the Cardano blockchain. It uses a smart contract to create a secure escrow system, allowing clients and freelancers to transact directly with trust and transparency.
+
+3. What problem you are trying to solve: The current freelance market is broken. Platforms like Upwork and Fiverr charge high fees (up to 20%), and there's always a risk of late payments or disputes. LeinDein fixes this by removing the expensive middleman, ensuring freelancers get paid fairly and clients get the work they paid for.   
+
+4. Tech Stack: Blockchain: Cardano, Smart Contract: Aiken, Frontend: Next.js,Blockchain SDK: MeshJS, Data Provider: Blockfrost, Decentralized Storage: IPFS
+
+5. Project Demo
+(You can add screenshots of your application here.)
 
 
-Welcome to [**IndiaCodex'25 Hackathon**](https://www.indiacodex.com) powered by [**Nucast Labs**](https://nucast.io/)
-Please find attached the rules and steps to submit your project for the hackathon :
+8. Presentation Link
+https://drive.google.com/file/d/13BubkDXNMTTHrdybWzAn0xImn3RvA9mr/view?usp=sharing
 
-## Step - 1: Fork the repository
-
-Fork the given repository to your GitHub profile.
-
-
-## Step - 2: Create your folder
-
-After forking the repository, clone the repository to your pc/desktop, and then create a folder with your **TeamName** as the folder name.
-
-Unclear about cloning? No problem, we've got your back. Click [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to learn about it.
-
-## Step - 3: Project Code Base
-
-Push Your code base in this folder.
-This should include all your files for frontend as well as the backend
-
-## Step - 4: Team Info and Project Info
-
-In your **TeamName** folder, make sure to include the below details in the README.md:
-
-1. Your Project
-2. Your Project's Description
-3. What problem you are trying to solve
-4. Tech Stack used while building the project
-5. Project Demo Photos, Videos
-6. If your project is deployed, then include the Live Project Link
-7. Your PPT link (Make sure to upload the PPT in this folder along with the project)
-8. Your Team Members' Info.
-
-## Step - 5: Submitting the code: Making a Pull request
-
-After you have pushed your files and code base,
-[create an issue](https://github.com/IndiaCodex/IndiaCodex-2025/issues) in the main repository as:
-
-- Issue: Team Name: Submission
-- Issue description should include a small glimpse of your project, what is it doing, and how are you trying to achieve it.
-
-After the issue is assigned, make a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) from your forked repo to this repo's main branch while mentioning issue no. assigned to it.
-
-## Guides and Rules for submission:
-
-1. Make sure you fork the repository first, and create a folder with your team name.
-2. Make all your code added to your forked repo, and then push the code to your main branch after your project is complete.
-3. Make sure to push files to your folder only.
-4. Changing or doing any edits to other folders is strictly prohibited.
+9. Team Members
+Syed Rizwan,Sagar, Abdulla , Mubashir, Vikhyath
